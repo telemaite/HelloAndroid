@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hint_edit_text">My Hint!</string>
+    <string name="button_label">Label:</string>
+  	<string name="button_text">Btn</string>
+    <string name="app_name">HelloAndroid</string>
+
+</resources>
